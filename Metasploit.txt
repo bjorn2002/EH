@@ -1,0 +1,7 @@
+PRACTICAL NO. 10
+AIM: Using Metasploit to exploit
+
+Steps:
+Download and open metasploit
+Use exploit to attack the host
+Create the exploit and add the exploit to the victim’s PC
