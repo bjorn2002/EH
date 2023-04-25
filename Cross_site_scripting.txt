@@ -1,0 +1,2 @@
+PRACTICAL NO. 6
+AIM: Simulate persistant Cross Site Scripting attack.
